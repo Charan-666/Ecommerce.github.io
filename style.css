@@ -1266,14 +1266,12 @@ footer .copyright {
         padding: 0px 20px;
      
     }
-    #hero {
-      
-        background-position: 55%;
-  
-        padding: 0 20px;
-        
-  
-    }
+ #hero {
+    background-position: 55%;
+
+    padding: 20px;
+    margin: 0;
+  }
     h2{
         font-size: 25px;
     }
